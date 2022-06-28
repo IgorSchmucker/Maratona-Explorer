@@ -1,0 +1,75 @@
+# HTML
+- HyperText Markup Language
+
+-Hiper Texto?
+-Marcação
+  -tags
+  -atributos
+-Linguagem
+  -maneira de escrever
+
+  # CSS
+
+  #Declaração
+  -Seletor; button
+  -Prporiedade e Valor {
+
+  }
+
+  # Conceitos
+  -Cascata
+  -Especifidade
+  -Box Model
+  -Display block vs inline
+
+ #JavaScript
+
+  1. Variáveis 
+  let estaChovendo = true
+  const meuNome = "Mayk"
+
+  2. Tipos de Dados
+  String "" ''
+  
+  Number 
+  12 - Integer (* -)
+  3.2 - Float 
+
+  Boolean 
+  true ou false
+
+  undefined - indefinido
+
+  3. Operadores 
+  Atribuição (ex; =)
+  atribui valor
+
+  Aritméticos (ex: * / + -)
+  calculos matemáticos simples
+
+  Concatenação de String (+)
+
+  Comparação (ex: > < ==>)
+
+  4. Condicional (if/else)
+
+  5.Estrutura de Dados
+  Array - Vetor - Lista
+  const temperatura = [23.3, 32, 1, 5]
+
+  Object
+  const pessoa = {
+    nome: "Igor",
+    idade: 38,
+    filhos: ["k", "l"]
+  }
+  console.log(pessoa.filhos[3])
+
+  6.Fuction
+    1.Criação
+    function nomedaFuncao() {
+      consele.log("codígo dentro da função")
+    }
+
+    2.Execução
+    
